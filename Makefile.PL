@@ -21,9 +21,10 @@ my %WriteMakefileArgs = (
   "NAME" => "Module::Install::AckXXX",
   "PREREQ_PM" => {
     "App::Ack" => "1.94",
-    "Capture::Tiny" => "0.10"
+    "Capture::Tiny" => "0.10",
+    "Module::Install" => "1.10"
   },
-  "VERSION" => "0.20",
+  "VERSION" => "0.21",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -32,7 +33,8 @@ my %WriteMakefileArgs = (
 
 my %FallbackPrereqs = (
   "App::Ack" => "1.94",
-  "Capture::Tiny" => "0.10"
+  "Capture::Tiny" => "0.10",
+  "Module::Install" => "1.10"
 );
 
 

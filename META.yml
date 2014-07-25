@@ -21,9 +21,10 @@ no_index:
 requires:
   App::Ack: '1.94'
   Capture::Tiny: '0.10'
+  Module::Install: '1.10'
   perl: v5.8.1
 resources:
   bugtracker: https://github.com/ingydotnet/module-install-ackxxx-pm/issues
   homepage: https://github.com/ingydotnet/module-install-ackxxx-pm
   repository: https://github.com/ingydotnet/module-install-ackxxx-pm.git
-version: '0.20'
+version: '0.21'
