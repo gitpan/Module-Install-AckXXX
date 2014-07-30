@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
     "Capture::Tiny" => "0.10",
     "Module::Install" => "1.10"
   },
-  "VERSION" => "0.21",
+  "VERSION" => "0.22",
   "test" => {
     "TESTS" => "t/*.t"
   }

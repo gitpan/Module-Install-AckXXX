@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/module-install-ackxxx-pm/issues
   homepage: https://github.com/ingydotnet/module-install-ackxxx-pm
   repository: https://github.com/ingydotnet/module-install-ackxxx-pm.git
-version: '0.21'
+version: '0.22'
