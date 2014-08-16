@@ -9,6 +9,5 @@ Makefile.PL
 README
 lib/Module/Install/AckXXX.pm
 lib/Module/Install/AckXXX.pod
-t/000-compile-modules.t
 t/release-pod-syntax.t
 t/test.t
